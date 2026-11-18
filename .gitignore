@@ -1,0 +1,14 @@
+# Large original OWID dataset
+data/owid-covid-data.csv
+
+# Temporary and backup files
+*.asv
+*.bak
+*~
+
+# Octave temporary files
+octave-workspace
+
+# Operating system files
+Thumbs.db
+.DS_Store
